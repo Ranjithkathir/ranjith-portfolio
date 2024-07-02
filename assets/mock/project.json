@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "TADM: Mechanical, Tolerance, and Dimension Management (Present)",
+      "description": "Built with NodeJS for scalable and high-performance backend architecture. Utilized Prisma ORM for efficient data modeling and management. Leveraged GraphQL for flexible and robust API design. Developed with NextJS for server-side rendering and optimal performance. Written in Typescript for robust and maintainable codebase.",
+      "technologies": ["NodeJS", "TypeScript", "Express", "NextJS", "PostgreSQL", "Prisma ORM", "Nexus Schema"],
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "id": 2,
+      "title": "HealthCare - Extensions Development (10 months)",
+      "description": "Built with Angular 14 for a robust and scalable frontend architecture. Utilized HTML5, CSS3, and Tailwind for a responsive and visually appealing UI. Integrated Material UI for a consistent and intuitive user experience. Collaborated with designers using Zeplin for seamless design-to-development handoff.",
+      "technologies": ["Angular-14", "JavaScript", "Material UI", "HTML5", "CSS3", "Tailwind", "RxJS"],
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "id": 3,
+      "title": "HealthCare Device & Data Management System (4 months)",
+      "description": "Involved in frontend application development and deployment",
+      "technologies": ["Angular 11", "HTML5", "CSS3", "Tailwind", "NG-Zorro"],
+      "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 4,
+        "title": "Employee Verification Management System (2 years)",
+        "description": "Built with PHP (Laravel 5.7) for robust backend functionality. Enhanced with HTML5, CSS, and Bootstrap 4 for a responsive and visually appealing frontend. Powered by MySQL for efficient data management. Utilized jQuery for dynamic client-side interactions. Integrated with Web Sockets for real-time communication",
+        "technologies": ["Laravel", "PHP", "MySql", "HTML", "CSS", "jQuery", "WebSockets", "JavaScript", "Forge Server", "DigitalOcean"],
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 5,
+        "title": "ERP System: Stock Management & Finance Management (8 months)",
+        "description": "Built on PHP (Laravel 7) for a robust and scalable backend. Powered by MySQL for efficient data management. Utilized jQuery for dynamic client-side interactions. Led the application requirement analysis, designing, development, testing, and deployment on shared hosting, ensuring a seamless and efficient ERP system for stock management and finance management.",
+        "technologies": ["Laravel", "PHP", "MySql", "HTML", "CSS", "jQuery", "JavaScript", "Shared Hosting"],
+        "image": "https://placehold.co/600x400"
+    }
+  ]
+  

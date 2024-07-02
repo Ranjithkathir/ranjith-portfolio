@@ -1,0 +1,189 @@
+[
+    {
+      "id": 1,
+      "name": "PHP",
+      "category": "Programming Languages",
+      "rating": 90
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "category": "Programming Languages",
+        "rating": 80
+    },
+    {
+        "id": 3,
+        "name": "TypeScript",
+        "category": "Programming Languages",
+        "rating": 80
+    },
+    {
+        "id": 4,
+        "name": "Python",
+        "category": "Programming Languages",
+        "rating": 50
+    },
+    {
+        "id": 5,
+        "name": "Golang",
+        "category": "Programming Languages",
+        "rating": 25
+    },
+    {
+        "id": 6,
+        "name": "GIT/AGILE/JIRA/Bitbucket",
+        "category": "Others",
+        "rating": 80
+    },
+    {
+        "id": 7,
+        "name": "Team Management/Mentoring",
+        "category": "Others",
+        "rating": 75
+    },
+    {
+        "id": 8,
+        "name": "HTML5",
+        "category": "Frontend",
+        "rating": 90
+    },
+    {
+        "id": 9,
+        "name": "CSS",
+        "category": "Frontend",
+        "rating": 80
+    },
+    {
+        "id": 10,
+        "name": "Bootstrap",
+        "category": "Frontend",
+        "rating": 85
+    },
+    {
+        "id": 11,
+        "name": "Angular",
+        "category": "Frontend",
+        "rating": 75
+    },
+    {
+        "id": 12,
+        "name": "Taiwind",
+        "category": "Frontend",
+        "rating": 80
+    },
+    {
+        "id": 13,
+        "name": "Material UI",
+        "category": "Frontend",
+        "rating": 75
+    },
+    {
+        "id": 14,
+        "name": "React JS",
+        "category": "Frontend",
+        "rating": 50
+    },
+    {
+        "id": 15,
+        "name": "Next JS",
+        "category": "Frontend",
+        "rating": 40
+    },
+    {
+        "id": 16,
+        "name": "Node JS",
+        "category": "Backend",
+        "rating": 80
+    },
+    {
+        "id": 17,
+        "name": "Express",
+        "category": "Backend",
+        "rating": 80
+    },
+    {
+        "id": 18,
+        "name": "Laravel",
+        "category": "Backend",
+        "rating": 90
+    },
+    {
+        "id": 19,
+        "name": "Relational DB - MySql/Postgres",
+        "category": "Backend",
+        "rating": 80
+    },
+    {
+        "id": 20,
+        "name": "NoSQL - MongoDB",
+        "category": "Backend",
+        "rating": 75
+    },
+    {
+        "id": 21,
+        "name": "REST/Graphql",
+        "category": "Backend",
+        "rating": 80
+    },
+    {
+        "id": 22,
+        "name": "Web Socket/Redis",
+        "category": "Backend",
+        "rating": 70
+    },
+    {
+        "id": 23,
+        "name": "Prisma ORM/Nexus Schema",
+        "category": "Backend",
+        "rating": 60
+    },
+    {
+        "id": 24,
+        "name": "Bluehost Shared Hosting",
+        "category": "Cloud / Deployment",
+        "rating": 80
+    },
+    {
+        "id": 25,
+        "name": "WP Engine",
+        "category": "Cloud / Deployment",
+        "rating": 75
+    },
+    {
+        "id": 26,
+        "name": "Azure Blob Storage/AD SSO",
+        "category": "Cloud / Deployment",
+        "rating": 70
+    },
+    {
+        "id": 27,
+        "name": "Digital Ocean",
+        "category": "Cloud / Deployment",
+        "rating": 70
+    },
+    {
+        "id": 28,
+        "name": "Forge Server",
+        "category": "Cloud / Deployment",
+        "rating": 80
+    },
+    {
+        "id": 29,
+        "name": "PHPUnit",
+        "category": "Testing Framework/Libraries",
+        "rating": 30
+    },
+    {
+        "id": 30,
+        "name": "Jest",
+        "category": "Testing Framework/Libraries",
+        "rating": 25
+    },
+    {
+        "id": 31,
+        "name": "Mocha",
+        "category": "Testing Framework/Libraries",
+        "rating": 25
+    }
+]
+  
